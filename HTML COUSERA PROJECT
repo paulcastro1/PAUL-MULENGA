@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cousera project</title>
+</head>
+<body>
+<h1><mark>Paul Mulenga</mark></h1>
+<nav>
+<a href="#">One</a>
+<a href="#">Two</a>
+<a href="#">Three</a>
+<a href="#"><mark>My Choice</mark></a>
+<h2>Favorite Foods</h2>    
+<ul>
+<li><mark>Apples</mark></li>
+<li><mark>Oranges</mark></li>
+<li><mark>Bananas</mark></li>
+<li><mark>Bisuits</mark></li>
+</ul>
+<section>
+<h3>Achievements</h3>    
+Progress in this course (80%)<progress value="80" max="100"></progress>
+<br>
+Progress in the Speciaization capstone (75%)<progress value="75" max="100"></progress>
+<br>
+Progress in life goals (40%)<mark><progress value="40" max="100"></progress></mark>
+</section>
+<section>
+    <h2>More About Me</h2>
+    <details>
+        <summary>My Childhood</summary>
+        <mark>I Grew Up in Los Angelas California</mark>
+    </details>
+    <img src="http://www.intro-webdesign.com/images/newlogo.png"
+    alt="WD4E"><P>This page was created by <mark>Paul mulenga</mark> and <mark>Colleen Van Lent</mark> to learn more about web design, Visit <a href="www.intro-webdesign.com" target="blank"> Intro to web design </P>
+
+
+</section>
+</body>
+</html>
