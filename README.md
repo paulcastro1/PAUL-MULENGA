@@ -1,2 +1,2 @@
 # PAUL-MULENGA
-full stack developer/egineer
+full stack developer/engineer
